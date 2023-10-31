@@ -12,33 +12,33 @@ build_property.EnableSingleFileAnalyzer = true
 build_property.EnableTrimAnalyzer = false
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = Ejercicio1Ud8
-build_property.ProjectDir = C:\Users\ferna\OneDrive\Escritorio\2DAM\GitHub\DesarrolloInterfaces2\EjerciciosUd8\Ejercicio1Ud8\
+build_property.ProjectDir = C:\Users\fjmiguel\Desktop\2DAM\GitHub\DesarrolloInterfaces2\EjerciciosUd8\Ejercicio1Ud8\
 
-[C:/Users/ferna/OneDrive/Escritorio/2DAM/GitHub/DesarrolloInterfaces2/EjerciciosUd8/Ejercicio1Ud8/App.xaml]
+[C:/Users/fjmiguel/Desktop/2DAM/GitHub/DesarrolloInterfaces2/EjerciciosUd8/Ejercicio1Ud8/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Ejercicio1Ud8.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/ferna/OneDrive/Escritorio/2DAM/GitHub/DesarrolloInterfaces2/EjerciciosUd8/Ejercicio1Ud8/AppShell.xaml]
+[C:/Users/fjmiguel/Desktop/2DAM/GitHub/DesarrolloInterfaces2/EjerciciosUd8/Ejercicio1Ud8/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Ejercicio1Ud8.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/ferna/OneDrive/Escritorio/2DAM/GitHub/DesarrolloInterfaces2/EjerciciosUd8/Ejercicio1Ud8/MainPage.xaml]
+[C:/Users/fjmiguel/Desktop/2DAM/GitHub/DesarrolloInterfaces2/EjerciciosUd8/Ejercicio1Ud8/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Ejercicio1Ud8.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/ferna/OneDrive/Escritorio/2DAM/GitHub/DesarrolloInterfaces2/EjerciciosUd8/Ejercicio1Ud8/Resources/Styles/Colors.xaml]
+[C:/Users/fjmiguel/Desktop/2DAM/GitHub/DesarrolloInterfaces2/EjerciciosUd8/Ejercicio1Ud8/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Ejercicio1Ud8.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/ferna/OneDrive/Escritorio/2DAM/GitHub/DesarrolloInterfaces2/EjerciciosUd8/Ejercicio1Ud8/Resources/Styles/Styles.xaml]
+[C:/Users/fjmiguel/Desktop/2DAM/GitHub/DesarrolloInterfaces2/EjerciciosUd8/Ejercicio1Ud8/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Ejercicio1Ud8.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

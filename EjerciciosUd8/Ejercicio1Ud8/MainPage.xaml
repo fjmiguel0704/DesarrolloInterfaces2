@@ -3,13 +3,42 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Ejercicio1Ud8.MainPage">
 
-    <ScrollView>
-        <VerticalStackLayout
-            Spacing="25"
-            Padding="30,0"
+    <Border Stroke="Purple"
+            StrokeThickness="10"
+            StrokeShape="RoundRectangle 40, 40, 0, 0"
+            Margin="15">
+
+        <StackLayout
             VerticalOptions="Center">
 
-        </VerticalStackLayout>
-    </ScrollView>
+            <VerticalStackLayout Spacing="10">
+                
+                <Button Text="Boton 1" 
+                        BorderColor="Black" 
+                        BorderWidth="5"
+                        Padding="17"
+                        HorizontalOptions="Center"/>
+                
+                <Button Text="Boton 2"
+                        HorizontalOptions="Center"/>
+                
+                <Button Text="Boton 3"
+                        HorizontalOptions="Center"/>
 
+                <HorizontalStackLayout HorizontalOptions="Center">
+                    
+                    <Label Text="Nombre:"
+                           Margin="0,10,10,0"
+                           FontAttributes="Bold"/>
+                    
+                    <Entry BackgroundColor="AliceBlue" 
+                           WidthRequest="250"/>
+                    
+                </HorizontalStackLayout>
+
+            </VerticalStackLayout>
+
+        </StackLayout>
+
+    </Border>
 </ContentPage>
