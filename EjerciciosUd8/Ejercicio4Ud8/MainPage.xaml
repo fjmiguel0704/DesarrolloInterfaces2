@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ejercicio4Ud8.MainPage">
+
+    <VerticalStackLayout Spacing="10"
+                         Margin="10,15,10,15">
+        
+        <Border Stroke="white"
+                StrokeThickness="3"
+                Padding="0,0,0,15">
+            <Label Text="Residence certainly elsewhere something she preferred cordially law. Age his surprise formerly mrs perceive few stanhill moderate. Age his surprise formerly mrs perceive few stanhill moderate. "></Label>
+        </Border>
+
+
+        <Border Stroke="white"
+                StrokeThickness="3"
+                Padding="0,0,0,35">
+            <Label Text="Residence certainly elsewhere something she preferred cordially law. Age his surprise formerly mrs perceive few stanhill moderate. Age his surprise formerly mrs perceive few stanhill moderate. "></Label>
+        </Border>
+
+        <Border Stroke="white"
+                StrokeThickness="2"
+                Padding="0,0,0,100">
+            <HorizontalStackLayout>
+                <FlexLayout>
+                    <Image Source="androidlogo.png"
+                           WidthRequest="300"></Image>
+                    
+                    <Image Source="androidlogo.png"
+                           WidthRequest="300"></Image>
+                    
+                    <Image Source="androidlogo.png"
+                           WidthRequest="300"></Image>
+                </FlexLayout>
+
+                <VerticalStackLayout Spacing="15"
+                                     Margin="0,15,0,0">
+                    
+                    <Border Stroke="white"
+                            StrokeThickness="3"
+                            Padding="0,0,0,150">
+
+                        <Label Text="Residence certainly elsewhere something she preferred cordially law.Age his surprise formerly mrs perceive few stanhill moderate. Age his surprise formerly mrs perceive few stanhill moderate. "></Label>
+                        
+                    </Border>
+
+                    <Border Stroke="white"
+                            StrokeThickness="3"
+                            Padding="0,0,0,100">
+
+                        <Label Text="Residence certainly elsewhere something she preferred cordially law. Age his surprise formerly mrs perceive few stanhill moderate. Age his surprise formerly mrs perceive few stanhill moderate. "></Label>
+
+                    </Border>
+
+                    <Border Stroke="white"
+                             StrokeThickness="3"
+                            Padding="0,0,0,100">
+
+                        <Label Text="Residence certainly elsewhere something she preferred cordially law. Age his surprise formerly mrs perceive few stanhill moderate. Age his surprise formerly mrs perceive few stanhill moderate. "></Label>
+
+                    </Border>
+
+                    <Border Stroke="white"
+                            StrokeThickness="3"
+                            Padding="0,0,0,100">
+
+                        <Label Text="Residence certainly elsewhere something she preferred cordially law. Age his surprise formerly mrs perceive few stanhill moderate. Age his surprise formerly mrs perceive few stanhill moderate. "></Label>
+
+                    </Border>
+
+                </VerticalStackLayout>
+                
+            </HorizontalStackLayout>
+            
+        </Border>
+
+        <Border Stroke="white"
+                StrokeThickness="2"
+                Margin="0,15,0,15">
+            <Label Text="Footer"
+                   HorizontalTextAlignment="Center"></Label>
+        </Border>
+        
+    </VerticalStackLayout>
+
+</ContentPage>

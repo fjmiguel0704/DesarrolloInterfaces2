@@ -29,7 +29,7 @@
     <AppXManifest Include="C:\Users\fjmiguel\Desktop\2DAM\GitHub\DesarrolloInterfaces2\EjerciciosUd8\Ejercicio1Ud8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-10-31T12:29:13.389</Modified>
+      <Modified>2023-11-02T12:57:37.917</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\fjmiguel\Desktop\2DAM\GitHub\DesarrolloInterfaces2\EjerciciosUd8\Ejercicio1Ud8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Ejercicio1Ud8.dll">
       <PackagePath>Ejercicio1Ud8.dll</PackagePath>
-      <Modified>2023-10-31T12:29:11.819</Modified>
+      <Modified>2023-11-02T12:57:36.772</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\fjmiguel\Desktop\2DAM\GitHub\DesarrolloInterfaces2\EjerciciosUd8\Ejercicio1Ud8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Ejercicio1Ud8.exe</PackagePath>
-      <Modified>2023-10-31T12:29:11.838</Modified>
+      <Modified>2023-11-02T12:57:36.792</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\fjmiguel\Desktop\2DAM\GitHub\DesarrolloInterfaces2\EjerciciosUd8\Ejercicio1Ud8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Ejercicio1Ud8.deps.json">
       <PackagePath>Ejercicio1Ud8.deps.json</PackagePath>

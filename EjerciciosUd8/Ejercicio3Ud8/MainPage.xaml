@@ -5,19 +5,19 @@
 
     <AbsoluteLayout>
         <BoxView Color="Red"
-                 AbsoluteLayout.LayoutBounds="0.0,0.0,0.1,0.1"
+                 AbsoluteLayout.LayoutBounds="0.0,0.0,0.1,0.16"
                  AbsoluteLayout.LayoutFlags="All"/>
 
         <BoxView Color="Blue"
-                 AbsoluteLayout.LayoutBounds="0.1,0.0,0.2,0.1"
+                 AbsoluteLayout.LayoutBounds="0.12,0.0,0.2,0.16"
                  AbsoluteLayout.LayoutFlags="All"/>
 
         <BoxView Color="Green"
-                 AbsoluteLayout.LayoutBounds="0.0,0.10,0.25,0.1"
+                 AbsoluteLayout.LayoutBounds="0.0,0.2,0.2969,0.2"
                  AbsoluteLayout.LayoutFlags="All"/>
 
         <BoxView Color="Yellow"
-                 AbsoluteLayout.LayoutBounds="0.1,0.2,0.3,0.2"
+                 AbsoluteLayout.LayoutBounds="1,1,0.9,0.64"
                  AbsoluteLayout.LayoutFlags="All"/>
     </AbsoluteLayout>
 
