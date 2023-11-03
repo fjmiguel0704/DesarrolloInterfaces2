@@ -29,7 +29,7 @@
     <AppXManifest Include="C:\Users\fjmiguel\Desktop\2DAM\GitHub\DesarrolloInterfaces2\EjerciciosUd8\Ejercicio5Ud8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-11-03T11:17:51.300</Modified>
+      <Modified>2023-11-03T12:31:38.769</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\fjmiguel\Desktop\2DAM\GitHub\DesarrolloInterfaces2\EjerciciosUd8\Ejercicio5Ud8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Ejercicio5Ud8.dll">
       <PackagePath>Ejercicio5Ud8.dll</PackagePath>
-      <Modified>2023-11-03T11:17:50.368</Modified>
+      <Modified>2023-11-03T12:31:37.174</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\fjmiguel\Desktop\2DAM\GitHub\DesarrolloInterfaces2\EjerciciosUd8\Ejercicio5Ud8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Ejercicio5Ud8.exe</PackagePath>
-      <Modified>2023-11-03T11:17:50.373</Modified>
+      <Modified>2023-11-03T12:31:37.195</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\fjmiguel\Desktop\2DAM\GitHub\DesarrolloInterfaces2\EjerciciosUd8\Ejercicio5Ud8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Ejercicio5Ud8.deps.json">
       <PackagePath>Ejercicio5Ud8.deps.json</PackagePath>
@@ -923,7 +923,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\fjmiguel\Desktop\2DAM\GitHub\DesarrolloInterfaces2\EjerciciosUd8\Entidades\bin\Debug\net6.0\Entidades.dll">
       <PackagePath>Entidades.dll</PackagePath>
-      <Modified>2023-11-03T09:20:07.537</Modified>
+      <Modified>2023-11-03T12:31:33.721</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.92\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
