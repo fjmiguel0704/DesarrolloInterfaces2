@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Solarizados.Login">
+
+    <VerticalStackLayout Spacing="20" VerticalOptions="Center" HorizontalOptions="Center">
+        
+        <Label Text="SOLARIZADOS"
+               TextColor="DarkGreen"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"
+               FontSize="40"
+               Margin="0,50,0,0"/>
+        
+        <Entry x:Name="nombreUsuario"
+               Placeholder="Usuario"
+               WidthRequest="280"
+               Margin="0,100,0,0"/>
+        
+        <Entry x:Name="contraseñaUsuario"
+               Placeholder="Contraseña"
+               WidthRequest="280"/>
+
+        <Label x:Name="errorCampo"
+               Text="Debes meter las credenciales"
+               TextColor="Red"
+               IsVisible="false"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"/>
+
+        <Button Text="Iniciar Sesión"
+                WidthRequest="150"
+                BackgroundColor="DarkGreen"
+                TextColor="White"
+                Clicked="iniciarSesion"/>
+
+        <Label Text="Company"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"
+               FontSize="10"
+               Margin="0,100,0,0"/>
+        
+    </VerticalStackLayout>
+
+</ContentPage>

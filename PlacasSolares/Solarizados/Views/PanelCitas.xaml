@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Solarizados.Views.PanelCitas"
+             Title="PanelCitas">  
+    <VerticalStackLayout Margin="20,0,0,0" Spacing="20">
+        <Frame BackgroundColor="ForestGreen" CornerRadius="50" WidthRequest="50" HeightRequest="50" HorizontalOptions="End" Margin="0,10,10,0">
+            <ImageButton Source="Resources/Images/out.png"
+                   WidthRequest="40"
+                   HeightRequest="40"
+                   Clicked="volverLogin"/>
+        </Frame>
+        
+        <Label Text="Panel de citas"
+               TextColor="DarkGreen"
+               FontSize="30"/>
+
+        
+        <Label Text="23 marzo"/>
+    
+        <Line X1="300"
+              Y1="0"
+              X2="0"
+              Y2="0"
+              Stroke="Black"/>
+        <HorizontalStackLayout>
+                
+        </HorizontalStackLayout>
+        
+    </VerticalStackLayout>
+</ContentPage>
