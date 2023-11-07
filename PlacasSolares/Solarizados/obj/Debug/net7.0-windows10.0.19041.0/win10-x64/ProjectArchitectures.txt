@@ -1,1 +1,1 @@
-C:\Users\fjmiguel\Desktop\2DAM\GitHub\DesarrolloInterfaces2\PlacasSolares\Solarizados\Solarizados.csproj;x64
+C:\Users\fmigg\Desktop\GitHub2DAM\DesarrolloInterfaces2\PlacasSolares\Solarizados\Solarizados.csproj;x64
