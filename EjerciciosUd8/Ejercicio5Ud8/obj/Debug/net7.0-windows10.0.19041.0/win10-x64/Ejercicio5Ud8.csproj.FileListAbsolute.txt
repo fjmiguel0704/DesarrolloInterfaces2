@@ -324,3 +324,6 @@ C:\Users\fjmiguel\Desktop\2DAM\GitHub\DesarrolloInterfaces2\EjerciciosUd8\Ejerci
 C:\Users\fjmiguel\Desktop\2DAM\GitHub\DesarrolloInterfaces2\EjerciciosUd8\Ejercicio5Ud8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\fjmiguel\Desktop\2DAM\GitHub\DesarrolloInterfaces2\EjerciciosUd8\Ejercicio5Ud8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\fjmiguel\Desktop\2DAM\GitHub\DesarrolloInterfaces2\EjerciciosUd8\Ejercicio5Ud8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\fjmiguel\Desktop\2DAM\GitHub\DesarrolloInterfaces2\EjerciciosUd8\Ejercicio5Ud8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\anadir.scale-100.png
+C:\Users\fjmiguel\Desktop\2DAM\GitHub\DesarrolloInterfaces2\EjerciciosUd8\Ejercicio5Ud8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\lapiz.scale-100.png
+C:\Users\fjmiguel\Desktop\2DAM\GitHub\DesarrolloInterfaces2\EjerciciosUd8\Ejercicio5Ud8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\papelera.scale-100.png

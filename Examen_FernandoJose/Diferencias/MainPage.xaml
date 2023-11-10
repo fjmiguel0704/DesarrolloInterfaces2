@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Diferencias.MainPage">
+    <ScrollView>
+        <VerticalStackLayout x:Name="Page" Spacing="10" VerticalOptions="Center" HorizontalOptions="Center">
+            <Label Text="Encuentra las 3 diferencias"
+                   x:Name="txtTitulo"/>
+            <Label Text="Intenta no cometer 3 errores"
+                   x:Name="txtInstrucciones"/>
+            <Label x:Name="contadorErrores"/>
+        
+            <AbsoluteLayout>                                                                                                                     
+                <Image Source="imagen1.jpg"
+                       WidthRequest="400"
+                       x:Name="image1">
+
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="TapGestureRecognizer_Image" NumberOfTapsRequired="1"/>
+                    </Image.GestureRecognizers>
+            
+                </Image>
+
+
+                <Button BackgroundColor="Red"
+                         AbsoluteLayout.LayoutBounds="26.0,155.9,0.09,0.06"
+                         AbsoluteLayout.LayoutFlags="SizeProportional"
+                         Opacity="0"
+                         Clicked="diferenciaCasa"
+                        x:Name="Casa"/>
+
+                <Button BackgroundColor="Red"
+                         AbsoluteLayout.LayoutBounds="170.0,315.9,0.05,0.1"
+                         AbsoluteLayout.LayoutFlags="SizeProportional"
+                         Opacity="0"
+                         Clicked="diferenciaComedero"
+                        x:Name="Comedero"/>
+
+                <Button BackgroundColor="Red"
+                         AbsoluteLayout.LayoutBounds="290.0,130.9,0.09,0.3"
+                         AbsoluteLayout.LayoutFlags="SizeProportional"
+                         Opacity="0"
+                         Clicked="diferenciaPerro"
+                        x:Name="Perro"/>
+            </AbsoluteLayout>
+
+            <Label x:Name="txtJugarNuevo"
+                   Text="¿Desea volver a jugar?"
+                   IsVisible="false"/>
+            <HorizontalStackLayout Spacing="10">
+                <Button x:Name="siVolverJugar"
+                        Text="Si"
+                        Clicked="Jugar"
+                        IsVisible="false"/>
+                <Button x:Name="noVolverJugar"
+                        Text="No"
+                        Clicked="NoJugar"
+                        IsVisible="false"/>
+
+            </HorizontalStackLayout>
+
+
+            <AbsoluteLayout>
+                <Image Source="imagen2.jpg"
+                       WidthRequest="400"
+                       x:Name="image2">
+
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="TapGestureRecognizer_Image2" NumberOfTapsRequired="1"/>
+                    </Image.GestureRecognizers>
+                </Image>
+
+                <Button BackgroundColor="Red"
+                         AbsoluteLayout.LayoutBounds="26.0,155.9,0.09,0.06"
+                         AbsoluteLayout.LayoutFlags="SizeProportional"
+                         Opacity="0"
+                         Clicked="diferenciaCasa2"
+                        x:Name="Casa2"/>
+
+                <Button BackgroundColor="Red"
+                         AbsoluteLayout.LayoutBounds="170.0,315.9,0.05,0.1"
+                         AbsoluteLayout.LayoutFlags="SizeProportional"
+                         Opacity="0"
+                         Clicked="diferenciaComedero2"
+                        x:Name="Comedero2"/>
+
+                <Button BackgroundColor="Red"
+                         AbsoluteLayout.LayoutBounds="290.0,130.9,0.09,0.3"
+                         AbsoluteLayout.LayoutFlags="SizeProportional"
+                         Opacity="0"
+                         Clicked="diferenciaPerro2"
+                        x:Name="Perro2"/>
+            </AbsoluteLayout>
+
+            <Label x:Name="perdido"
+                   Text="Has perdido, cometiste 3 errores"
+                   TextColor="Red"
+                   IsVisible="false"/>
+            <Label x:Name="ganado"
+                   Text="Has ganado"
+                   TextColor="Green"
+                   IsVisible="false"/>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

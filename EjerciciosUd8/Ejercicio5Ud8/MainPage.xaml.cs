@@ -13,7 +13,7 @@ namespace Ejercicio5Ud8
 
             BindingContext = this;
 
-            PersonasListView.ItemsSource = listadoPersonas;
+            ListaContactosView.ItemsSource = listadoPersonas;
         }
     }
 }
