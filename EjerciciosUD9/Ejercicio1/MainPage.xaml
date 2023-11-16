@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ejercicio1.MainPage">
+
+    <StackLayout VerticalOptions="Center" HorizontalOptions="Center" Spacing="20">
+        <Slider WidthRequest="200"
+                x:Name="valorSlider"
+                Minimum="1"
+                Maximum="100"/>
+        <Label Text="Texto"
+               FontSize="{Binding Path=Value, Source={x:Reference valorSlider}}"
+               x:Name="LabelTexto"/>
+        <Entry Text="{Binding Value, Mode=TwoWay}"
+               BindingContext="{x:Reference valorSlider}"
+               x:Name="TamañoTextoEntry"/>
+    </StackLayout>
+
+</ContentPage>
