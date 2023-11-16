@@ -11,7 +11,7 @@
         <Label Text="Texto"
                FontSize="{Binding Path=Value, Source={x:Reference valorSlider}}"
                x:Name="LabelTexto"/>
-        <Entry Text="{Binding Value, Mode=TwoWay}"
+        <Entry Text="{Binding Value, Mode=TwoWay, StringFormat='{0:F0}'}"
                BindingContext="{x:Reference valorSlider}"
                x:Name="TamañoTextoEntry"/>
     </StackLayout>
