@@ -1,0 +1,11 @@
+C:\Users\fjmiguel\Desktop\2DAM\GitHub\DesarrolloInterfaces2\EjerciciosUD9\BIblioteca\bin\Debug\net6.0\BIblioteca.deps.json
+C:\Users\fjmiguel\Desktop\2DAM\GitHub\DesarrolloInterfaces2\EjerciciosUD9\BIblioteca\bin\Debug\net6.0\BIblioteca.dll
+C:\Users\fjmiguel\Desktop\2DAM\GitHub\DesarrolloInterfaces2\EjerciciosUD9\BIblioteca\bin\Debug\net6.0\BIblioteca.pdb
+C:\Users\fjmiguel\Desktop\2DAM\GitHub\DesarrolloInterfaces2\EjerciciosUD9\BIblioteca\obj\Debug\net6.0\BIblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fjmiguel\Desktop\2DAM\GitHub\DesarrolloInterfaces2\EjerciciosUD9\BIblioteca\obj\Debug\net6.0\BIblioteca.AssemblyInfoInputs.cache
+C:\Users\fjmiguel\Desktop\2DAM\GitHub\DesarrolloInterfaces2\EjerciciosUD9\BIblioteca\obj\Debug\net6.0\BIblioteca.AssemblyInfo.cs
+C:\Users\fjmiguel\Desktop\2DAM\GitHub\DesarrolloInterfaces2\EjerciciosUD9\BIblioteca\obj\Debug\net6.0\BIblioteca.csproj.CoreCompileInputs.cache
+C:\Users\fjmiguel\Desktop\2DAM\GitHub\DesarrolloInterfaces2\EjerciciosUD9\BIblioteca\obj\Debug\net6.0\BIblioteca.dll
+C:\Users\fjmiguel\Desktop\2DAM\GitHub\DesarrolloInterfaces2\EjerciciosUD9\BIblioteca\obj\Debug\net6.0\refint\BIblioteca.dll
+C:\Users\fjmiguel\Desktop\2DAM\GitHub\DesarrolloInterfaces2\EjerciciosUD9\BIblioteca\obj\Debug\net6.0\BIblioteca.pdb
+C:\Users\fjmiguel\Desktop\2DAM\GitHub\DesarrolloInterfaces2\EjerciciosUD9\BIblioteca\obj\Debug\net6.0\ref\BIblioteca.dll
